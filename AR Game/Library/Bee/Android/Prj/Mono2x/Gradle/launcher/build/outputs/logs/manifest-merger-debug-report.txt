@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-88:12
+MERGED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:17:1-45:12
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:70-105
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:106-152
+	android:versionCode
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:153-193
+application
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:5-86:19
+MERGED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:5-86:19
+MERGED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:29:5-43:19
+MERGED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:29:5-43:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:18-50
+	android:label
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+	android:icon
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+supports-screens
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:25:5-27:41
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:7:5-44
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:7:5-44
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:11:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:13:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:12:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-62
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-55
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:9:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\8ed82e9ba06ba8d0780cf0836aa2edaa\transformed\VuforiaWrapper\AndroidManifest.xml:9:5-60
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+		MERGED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-53
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-61
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-72
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-43:33
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:9-46:36
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:9-49:36
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:9-52:37
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:9-55:50
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-58:36
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:9-81:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-57
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-48
+	android:exported
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:13-73:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:25-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:13-77:40
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:77:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:17-57
+meta-data#notch_support
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-80:40
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:17-45
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:9-85:40
+	android:value
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from [:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-46
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:32:9-34:41
+	android:value
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:34:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:33:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:36:9-42:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:39:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:41:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:40:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:38:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:42:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:37:13-62

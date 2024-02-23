@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Unity Projects\\AR Game\\AR Game\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Krishna srivastava\\.gradle\\caches\\transforms-3\\1e1db0af35a20c64bd5a5f32078a8f3e\\transformed\\core-1.18.0\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,297,443,596",
+                        "endColumns": "52,53,145,152,90",
+                        "endOffsets": "242,296,442,595,686"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,170,320,477",
+                        "endColumns": "56,57,149,156,94",
+                        "endOffsets": "107,165,315,472,567"
+                    }
+                }
+            ]
+        }
+    ]
+}

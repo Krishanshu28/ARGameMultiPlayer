@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+uses-permission#android.permission.CAMERA
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-63
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-60
+uses-feature#0x00030000
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-52
+	android:glEsVersion
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-91
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:64-88
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-63
+uses-feature#android.hardware.camera
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-83
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:56-80
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-93
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:66-90
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-65
+uses-feature#android.hardware.camera.front
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-89
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:62-86
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-61
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-97
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:70-94
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-88
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:61-85
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-99
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:72-96
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:3-108
+	android:required
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:81-105
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:17-80
+application
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:3-31:17
+	android:extractNativeLibs
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-mode
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-74
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:51-71
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-50
+meta-data#unity.launch-fullscreen
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-78
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:55-75
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-54
+meta-data#unity.allow-resizable-window
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-84
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:60-81
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-59
+meta-data#notch.config
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-81
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:44-78
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-84
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:61-81
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:5-29:16
+	android:screenOrientation
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:111-155
+	android:launchMode
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:156-187
+	android:hardwareAccelerated
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:405-440
+	android:exported
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:441-464
+	android:resizeableActivity
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:370-404
+	android:configChanges
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:188-369
+	android:theme
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:69-110
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-26:23
+category#android.intent.category.LAUNCHER
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:19-66
+action#android.intent.action.MAIN
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-58
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:7-82
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:59-79
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:18-58
+meta-data#notch_support
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:7-70
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:47-67
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:18-46
+meta-data#com.google.ar.core
+ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-77
+	android:value
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:50-74
+	android:name
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-49
+uses-sdk
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml

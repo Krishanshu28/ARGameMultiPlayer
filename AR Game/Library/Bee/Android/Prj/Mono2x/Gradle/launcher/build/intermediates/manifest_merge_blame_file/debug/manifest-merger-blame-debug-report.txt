@@ -1,0 +1,206 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.ARGame"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+19-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+20-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-65
+21-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-62
+22
+23    <uses-feature android:glEsVersion="0x00030000" />
+23-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-54
+23-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:19-51
+24    <uses-feature
+24-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-17:36
+25        android:name="android.hardware.vulkan.version"
+25-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-55
+26        android:required="false" />
+26-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-33
+27    <uses-feature
+27-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-20:36
+28        android:name="android.hardware.camera"
+28-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-47
+29        android:required="true" />
+29-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-33
+30    <uses-feature
+30-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:5-23:36
+31        android:name="android.hardware.camera.autofocus"
+31-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-57
+32        android:required="false" />
+32-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-33
+33    <uses-feature
+33-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:5-26:36
+34        android:name="android.hardware.camera.front"
+34-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-53
+35        android:required="false" />
+35-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-33
+36    <uses-feature
+36-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:5-29:36
+37        android:name="android.hardware.sensor.accelerometer"
+37-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-61
+38        android:required="false" />
+38-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33
+39    <uses-feature
+39-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:5-32:36
+40        android:name="android.hardware.touchscreen"
+40-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:9-52
+41        android:required="false" />
+41-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-33
+42    <uses-feature
+42-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:5-35:36
+43        android:name="android.hardware.touchscreen.multitouch"
+43-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-63
+44        android:required="false" />
+44-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-33
+45    <uses-feature
+45-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:5-38:36
+46        android:name="android.hardware.touchscreen.multitouch.distinct"
+46-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-72
+47        android:required="false" />
+47-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-33
+48
+49    <application
+49-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+50        android:debuggable="true"
+51        android:extractNativeLibs="true"
+51-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:18-50
+52        android:icon="@mipmap/app_icon"
+52-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+53        android:label="@string/app_name" >
+53-->C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+54        <meta-data
+54-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-43:33
+55            android:name="unity.splash-mode"
+55-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-45
+56            android:value="0" />
+56-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-30
+57        <meta-data
+57-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:44:9-46:36
+58            android:name="unity.splash-enable"
+58-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-47
+59            android:value="True" />
+59-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-33
+60        <meta-data
+60-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:9-49:36
+61            android:name="unity.launch-fullscreen"
+61-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-51
+62            android:value="True" />
+62-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-33
+63        <meta-data
+63-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:9-52:37
+64            android:name="unity.allow-resizable-window"
+64-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-56
+65            android:value="False" />
+65-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-34
+66        <meta-data
+66-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:9-55:50
+67            android:name="notch.config"
+67-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-40
+68            android:value="portrait|landscape" />
+68-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-47
+69        <meta-data
+69-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:9-58:36
+70            android:name="unity.auto-report-fully-drawn"
+70-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-57
+71            android:value="true" />
+71-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:13-33
+72
+73        <activity
+73-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:60:9-81:20
+74            android:name="com.unity3d.player.UnityPlayerActivity"
+74-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-66
+75            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+75-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:13-194
+76            android:exported="true"
+76-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:13-36
+77            android:hardwareAccelerated="false"
+77-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-48
+78            android:launchMode="singleTask"
+78-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:13-44
+79            android:resizeableActivity="false"
+79-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:13-47
+80            android:screenOrientation="reverseLandscape"
+80-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:67:13-57
+81            android:theme="@style/UnityThemeSelector" >
+81-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:68:13-54
+82            <intent-filter>
+82-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:69:13-73:29
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:17-77
+83-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:70:27-74
+84
+85                <action android:name="android.intent.action.MAIN" />
+85-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:17-69
+85-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:72:25-66
+86            </intent-filter>
+87
+88            <meta-data
+88-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:75:13-77:40
+89                android:name="unityplayer.UnityActivity"
+89-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:76:17-57
+90                android:value="true" />
+90-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:77:17-37
+91            <meta-data
+91-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:78:13-80:40
+92                android:name="notch_support"
+92-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:79:17-45
+93                android:value="true" />
+93-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:80:17-37
+94        </activity>
+95
+96        <meta-data
+96-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:83:9-85:40
+97            android:name="com.google.ar.core"
+97-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:84:13-46
+98            android:value="optional" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+98-->[:unityLibrary] C:\Unity Projects\AR Game\AR Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:85:13-37
+99        <meta-data
+99-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:32:9-34:41
+100            android:name="com.google.ar.core.min_apk_version"
+100-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:33:13-62
+101            android:value="200501000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+101-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:34:13-38
+102        <activity
+102-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:36:9-42:80
+103            android:name="com.google.ar.core.InstallActivity"
+103-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:37:13-62
+104            android:configChanges="keyboardHidden|orientation|screenSize"
+104-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:38:13-74
+105            android:excludeFromRecents="true"
+105-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:39:13-46
+106            android:exported="false"
+106-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:40:13-37
+107            android:launchMode="singleTop"
+107-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:41:13-43
+108            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+108-->[com.google.ar:core:1.18.0] C:\Users\Krishna srivastava\.gradle\caches\transforms-3\1e1db0af35a20c64bd5a5f32078a8f3e\transformed\core-1.18.0\AndroidManifest.xml:42:13-77
+109    </application>
+110
+111</manifest>

@@ -1,0 +1,31 @@
+Using template 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+android.permission.INTERNET was added because:
+	System.Net.Sockets was present in:
+		PhotonRealtime-FeaturesChecked.txt
+		websocket-sharp-FeaturesChecked.txt
+		Photon3Unity3D-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		PhotonRealtime-FeaturesChecked.txt
+	Development player
+android.permission.ACCESS_NETWORK_STATE was added because:
+	UnityEngine.Application::get_internetReachability was present in:
+		PhotonRealtime-FeaturesChecked.txt
+android.permission.CAMERA, android.hardware.camera (Auto Focus, Front) were added because:
+	UnityEngine.WebCamTexture was present in:
+		Vuforia.UnityExtensions-FeaturesChecked.txt
+android.hardware.sensor.accelerometer was added because:
+	UnityEngine.Input::get_acceleration was present in:
+		Assembly-CSharp-firstpass-FeaturesChecked.txt
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::get_touches was present in:
+		Assembly-CSharp-firstpass-FeaturesChecked.txt
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+		Vuforia.UnityExtensions-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-firstpass-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
+		Vuforia.UnityExtensions-FeaturesChecked.txt
